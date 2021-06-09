@@ -1,12 +1,15 @@
 # File Organizer
 
-### features
+### `Features`
 * Sort files Based on Extensions
 
 
 
-### usage
-* Specify Folder Path
+### `Usage`
+* Edit extensions.js file to specify your extensions
+* Specify Folder Path which need to be Sorted
+
+
 
 
 Note : Be Carefull While Confirming
