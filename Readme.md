@@ -1,11 +1,11 @@
-### File Organizer
+# File Organizer
 
-# features
+### features
 * Sort files Based on Extensions
 
 
 
-# usage
+### usage
 * Specify Folder Path
 
 
